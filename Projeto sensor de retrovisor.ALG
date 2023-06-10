@@ -1,3 +1,4 @@
+(códigp feito em portugol)
 Algoritmo "Exer"
 Var
 sensorE, sensorD, comandoV, retrovisorR: inteiro
